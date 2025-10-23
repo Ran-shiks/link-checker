@@ -1,7 +1,7 @@
 # link-checker 🔗
 
-[![Pipeline Status](https://github.com/Ran-shiks/link-checker/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USER/YOUR_REPO/actions)
-[![Codecov](https://codecov.io/gh/Ran-shiks/link-checker/graph/badge.svg?token=YOUR_CODECOV_TOKEN)](https://codecov.io/gh/YOUR_USER/YOUR_REPO)
+[![Pipeline Status](https://github.com/Ran-shiks/link-checker/actions/workflows/ci.yml/badge.svg)](https://github.com/Ran-shiks/link-checker/actions)
+[![Codecov](https://codecov.io/gh/Ran-shiks/link-checker/graph/badge.svg?token=YOUR_CODECOV_TOKEN)](https://codecov.io/gh/Ran-shiks/link-checker)
 [![PyPI Version](https://badge.fury.io/py/link-checker.svg)](https://badge.fury.io/py/link-checker) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple yet powerful command-line (CLI) tool to find broken links in local files or web pages.
