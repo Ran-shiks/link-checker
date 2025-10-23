@@ -1,0 +1,23 @@
+
+[build-system]
+# Specifica i tool necessari per costruire il pacchetto
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+# Informazioni base sul tuo progetto
+name = "prova-inator"
+version = "0.0.1" # La pipeline userà il tag, ma qui serve un valore
+description = "Un progetto di prova per la pipeline GitHub."
+readme = "README.md" # Assicurati di avere un file README.md
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[tool.setuptools]
+# Questa è la parte cruciale:
+# Dice a 'build' di includere la tua cartella 'application'
+# come pacchetto Python principale.
+packages = ["application"]
