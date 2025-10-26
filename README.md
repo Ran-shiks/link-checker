@@ -70,8 +70,8 @@ It is highly recommended to use a virtual environment.
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_USER/YOUR_REPO.git](https://github.com/YOUR_USER/YOUR_REPO.git)
-cd YOUR_REPO
+git clone [https://github.com/Ran-shiks/link-checker.git](https://github.com/Ran-shiks/link-checker.git)
+cd link-checker
 
 # 2. Create a virtual environment
 python -m venv venv
